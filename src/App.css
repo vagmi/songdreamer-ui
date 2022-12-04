@@ -1,0 +1,9 @@
+.App {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.App pre.opt:hover {
+  background-color: #446;
+  cursor: pointer;
+}
